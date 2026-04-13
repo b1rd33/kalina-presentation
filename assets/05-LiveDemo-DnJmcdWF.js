@@ -1,0 +1,1 @@
+import{j as e}from"./index-DKWFUx8v.js";function o(){return e.jsxs(e.Fragment,{children:[e.jsxs("h1",{style:{fontSize:"5rem"},children:[e.jsx("span",{style:{color:"var(--clr-copper-bright)"},children:"Live"})," Demo"]}),e.jsx("p",{style:{color:"var(--clr-muted)",fontSize:"1.4rem",fontWeight:300,marginTop:"0.4rem"},children:"Let's open the Briefing Room"})]})}export{o as default};
