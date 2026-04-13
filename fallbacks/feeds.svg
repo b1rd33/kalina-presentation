@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="600" viewBox="0 0 1280 600">
+  <rect width="1280" height="600" fill="#1a1714"/>
+  <text x="640" y="280" font-family="system-ui" font-size="24" fill="#c8956c" text-anchor="middle">Feeds Page — Screenshot Placeholder</text>
+  <text x="640" y="320" font-family="monospace" font-size="14" fill="#666" text-anchor="middle">Replace with actual screenshot from localhost:3000/feeds</text>
+</svg>

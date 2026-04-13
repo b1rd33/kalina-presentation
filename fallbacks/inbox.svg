@@ -1,0 +1,20 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#161310"/>
+  <rect x="64" y="56" width="1152" height="72" rx="16" fill="#211C18" stroke="#44362C"/>
+  <rect x="92" y="80" width="180" height="24" rx="12" fill="#3C2F26"/>
+  <rect x="284" y="80" width="148" height="24" rx="12" fill="#2B2621"/>
+  <rect x="64" y="152" width="520" height="504" rx="18" fill="#1C1714" stroke="#3B3028"/>
+  <rect x="608" y="152" width="608" height="504" rx="18" fill="#1C1714" stroke="#3B3028"/>
+  <rect x="92" y="184" width="300" height="24" rx="12" fill="#D7A179" fill-opacity="0.2"/>
+  <rect x="92" y="230" width="464" height="86" rx="14" fill="#241D18"/>
+  <rect x="92" y="332" width="464" height="86" rx="14" fill="#241D18"/>
+  <rect x="92" y="434" width="464" height="86" rx="14" fill="#2E231C" stroke="#D7A179"/>
+  <rect x="92" y="536" width="464" height="86" rx="14" fill="#241D18"/>
+  <rect x="640" y="190" width="230" height="28" rx="14" fill="#D7A179" fill-opacity="0.18"/>
+  <rect x="640" y="236" width="520" height="150" rx="14" fill="#241D18"/>
+  <rect x="640" y="406" width="520" height="88" rx="14" fill="#241D18"/>
+  <rect x="640" y="514" width="248" height="92" rx="14" fill="#241D18"/>
+  <rect x="912" y="514" width="248" height="92" rx="14" fill="#241D18"/>
+  <text x="92" y="46" fill="#D7A179" font-family="IBM Plex Mono, monospace" font-size="16" letter-spacing="1.6">INBOX + CONNECTIONS</text>
+  <text x="92" y="690" fill="#8F7A6C" font-family="Outfit, sans-serif" font-size="28">Candidate list on the left, inspector and connection logic on the right.</text>
+</svg>

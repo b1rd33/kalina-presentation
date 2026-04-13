@@ -1,0 +1,18 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#161310"/>
+  <rect x="70" y="56" width="1140" height="96" rx="18" fill="#211C18" stroke="#44362C"/>
+  <rect x="100" y="90" width="250" height="26" rx="13" fill="#D7A179" fill-opacity="0.22"/>
+  <rect x="70" y="178" width="350" height="470" rx="18" fill="#1C1714" stroke="#3B3028"/>
+  <rect x="446" y="178" width="764" height="470" rx="18" fill="#1C1714" stroke="#3B3028"/>
+  <rect x="98" y="214" width="294" height="54" rx="14" fill="#2E231C" stroke="#D7A179"/>
+  <rect x="98" y="284" width="294" height="54" rx="14" fill="#241D18"/>
+  <rect x="98" y="354" width="294" height="54" rx="14" fill="#241D18"/>
+  <rect x="98" y="424" width="294" height="54" rx="14" fill="#241D18"/>
+  <rect x="98" y="494" width="294" height="54" rx="14" fill="#241D18"/>
+  <rect x="478" y="214" width="340" height="28" rx="14" fill="#D7A179" fill-opacity="0.2"/>
+  <rect x="478" y="260" width="700" height="88" rx="14" fill="#241D18"/>
+  <rect x="478" y="368" width="700" height="88" rx="14" fill="#241D18"/>
+  <rect x="478" y="476" width="700" height="88" rx="14" fill="#241D18"/>
+  <text x="98" y="46" fill="#D7A179" font-family="IBM Plex Mono, monospace" font-size="16" letter-spacing="1.6">DOCUMENTATION</text>
+  <text x="98" y="690" fill="#8F7A6C" font-family="Outfit, sans-serif" font-size="28">Operator handbook, troubleshooting, and takeover guidance in one place.</text>
+</svg>
